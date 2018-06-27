@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        " DG",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I": {
+            "item": "plasmacannons:dense_compositematerial"
+        },
+        "G": {
+            "item": "plasmacannons:block_plasmagenerator"
+        },
+        "D": {
+            "item": "ic2:lapotron_crystal"
+        }
+    },
+    
+    "result":
+    {
+        "item": "plasmacannons:plasma_cannon",
+        "count": 1
+    }
+}

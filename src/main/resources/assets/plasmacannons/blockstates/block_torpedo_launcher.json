@@ -1,0 +1,11 @@
+{
+    "variants": 
+    {
+        "facing=north": { "model": "plasmacannons:block_torpedo_launcher" },
+        "facing=down": { "model": "plasmacannons:block_torpedo_launcher", "x": 90 },
+        "facing=up": { "model": "plasmacannons:block_torpedo_launcher", "x": 270 },
+        "facing=east": { "model": "plasmacannons:block_torpedo_launcher", "y": 90 },
+        "facing=south": { "model": "plasmacannons:block_torpedo_launcher", "y": 180 },
+        "facing=west": { "model": "plasmacannons:block_torpedo_launcher", "y": 270 }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I": {
+            "item": "plasmacannons:dense_compositematerial"
+        }
+    },
+    
+    "result":
+    {
+        "item": "plasmacannons:composite_armor_material",
+        "count": 1
+    }
+}

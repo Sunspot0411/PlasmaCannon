@@ -1,0 +1,12 @@
+{
+  "block.plasmacannon.firecannon": {
+    "category": "block",
+    "subtitle": "block.plasmacannon.firecannon",
+    "sounds": [
+      {
+        "name": "plasmacannons:block/plasmacannon/firecannon",
+        "stream": false
+      }
+    ]
+  }
+}

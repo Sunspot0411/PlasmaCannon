@@ -1,0 +1,11 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "up": "plasmacannons:blocks/block_torpedo_launcher_side",
+        "down": "plasmacannons:blocks/block_torpedo_launcher_side",
+        "north": "plasmacannons:blocks/block_torpedo_launcher_side",
+        "east": "plasmacannons:blocks/block_torpedo_launcher_side",
+        "south": "plasmacannons:blocks/block_torpedo_launcher_back",
+        "west": "plasmacannons:blocks/block_torpedo_launcher_side"
+    }
+}

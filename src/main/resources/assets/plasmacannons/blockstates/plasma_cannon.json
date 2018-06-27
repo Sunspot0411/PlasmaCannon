@@ -1,0 +1,9 @@
+{
+    "variants": 
+    {
+        "facing=north": { "model": "plasmacannons:plasma_cannon" },
+        "facing=east": { "model": "plasmacannons:plasma_cannon", "y": 90 },
+        "facing=south": { "model": "plasmacannons:plasma_cannon", "y": 180 },
+        "facing=west": { "model": "plasmacannons:plasma_cannon", "y": 270 }
+    }
+}

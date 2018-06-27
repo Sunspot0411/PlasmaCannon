@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "IDI",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I": {
+            "item": "ic2:plating"
+        },
+        "D": {
+            "item": "ic2:energy_crystal"
+        }
+    },
+    
+    "result":
+    {
+        "item": "plasmacannons:block_plasmagenerator",
+        "count": 1
+    }
+}

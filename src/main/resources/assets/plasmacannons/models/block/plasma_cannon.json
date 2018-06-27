@@ -1,0 +1,11 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "up": "plasmacannons:blocks/plasma_cannon_side",
+        "down": "plasmacannons:blocks/plasma_cannon_side",
+        "north": "plasmacannons:blocks/plasma_cannon_front",
+        "east": "plasmacannons:blocks/plasma_cannon_side",
+        "south": "plasmacannons:blocks/plasma_cannon_back",
+        "west": "plasmacannons:blocks/plasma_cannon_side"
+    }
+}

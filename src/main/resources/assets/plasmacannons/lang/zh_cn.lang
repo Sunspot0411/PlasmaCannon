@@ -1,0 +1,13 @@
+item.ingot_key.name=开关
+item.ingot_energyreader.name=能量显示器
+item.item_compositearmor.name=复合装甲
+item.dense_compositematerial.name=高密度复合材料
+item.small_obsidian.name=黑曜石锭
+item.compositematerial.name=复合材料
+item.composite_armor_material.name=装甲材料
+item.torpedo.name=鱼雷
+tile.block_plasmagenerator.name=等离子产生器
+tile.block_compositearmor.name=复合装甲板
+tile.plasma_cannon.name=离子炮
+tile.block_torpedolauncher.name=鱼雷发射器
+

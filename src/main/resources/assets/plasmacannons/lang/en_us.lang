@@ -1,0 +1,13 @@
+item.ingot_key.name=Switch
+item.ingot_energyreader.name=Energy Reader
+item.item_compositearmor.name=Composite Armor
+item.dense_compositematerial.name=Dense Composite Material
+item.small_obsidian.name=Obsidian Ingot
+item.compositematerial.name=Composite Material
+item.composite_armor_material.name=Composite Armor Material
+item.torpedo.name=Torpedo
+tile.block_plasmagenerator.name=Plasma Generator
+tile.block_compositearmor.name=Composite Armor Plate
+tile.plasma_cannon.name=Plasma Cannon
+tile.block_torpedolauncher.name=Torpedo Launcher
+

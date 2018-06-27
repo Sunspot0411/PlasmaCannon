@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        "SOG",
+        "DDD"
+    ],
+    
+    "key":
+    {
+        "D": {
+            "item": "plasmacannons:dense_compositematerial"
+        },
+        "S": {
+            "item": "minecraft:dispenser"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "O": {
+            "item": "ic2:obscurator"
+        }
+    },
+    
+    "result":
+    {
+        "item": "plasmacannons:block_torpedo_launcher",
+        "count": 1
+    }
+}

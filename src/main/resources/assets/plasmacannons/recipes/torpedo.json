@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " D ",
+        "DTD",
+        "IEI"
+    ],
+    
+    "key":
+    {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "T": {
+            "item": "minecraft:tnt"
+        },
+        "E": {
+            "item": "ic2:energy_crystal"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "plasmacannons:torpedo",
+        "count": 1
+    }
+}

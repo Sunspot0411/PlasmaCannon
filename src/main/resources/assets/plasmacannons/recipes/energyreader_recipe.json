@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " L ",
+        "BBB",
+        " I "
+    ],
+    
+    "key":
+    {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "L": {
+            "item": "ic2:obscurator"
+        },
+        "B": {
+            "item": "minecraft:stone_button"
+        }
+    },
+    
+    "result":
+    {
+        "item": "plasmacannons:ingot_energyreader",
+        "count": 1
+    }
+}
